@@ -13,6 +13,7 @@ Fork this repo as a base. You may change any code in this repository to suit the
 * All the steps needed to repeat your deployment process
 * URLs to the your deployed frontend.
 
+Link to my project = http://3.14.25.19:3000/
 #github repository =  https://github.com/rid432/devops-code-challenge
 
 # Environment
